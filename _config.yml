@@ -53,8 +53,8 @@ avatar: "/img/avatar-icon.png"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "/img/lapis.jpg"
-footer-img: "/img/lapis.jpg"
+navbar-img: "/img/nav_bars.png"
+footer-img: "/img/nav_bars.png"
 page-img: "/img/bgimg.png"
 
 # --- Footer options --- #
