@@ -24,7 +24,6 @@ navbar-links:
   Resources:
     - Software Carpentry: "https://software-carpentry.org/"
     - Data Carpentry: "https://datacarpentry.org/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 
 
