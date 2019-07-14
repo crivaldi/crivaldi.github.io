@@ -3,8 +3,9 @@ layout: post
 title: Unix in Windows 10
 subtitle: Installation of command line tools for Windows 10 users
 bigimg: /img/path.jpg
-tags: [books, test]
+tags: [windows, unix]
 ---
+
 # Adventures with Unix in Windows 10
  *Author: Chissa Rivaldi
 Last Updated: 07/13/2019*
