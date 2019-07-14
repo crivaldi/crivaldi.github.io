@@ -2,7 +2,6 @@
 layout: post
 title: String manipulation with sed and grep
 subtitle: some tips on using sed and grep
-tags: [books, shakespeare, test]
 ---
 # String manipulation with sed and grep
 
