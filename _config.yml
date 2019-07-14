@@ -20,8 +20,9 @@ description: Bioinformatics tutorials and resources for world domination.
 
 # List of links in the navigation bar
 navbar-links:
+  CV: "Rivaldi
   About Me: "aboutme"
-  Resources:
+  Resources: "Rivaldi_site_CV_7_19.pdf"
     - Software Carpentry: "https://software-carpentry.org/"
     - Data Carpentry: "https://datacarpentry.org/"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
