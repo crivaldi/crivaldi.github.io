@@ -103,7 +103,8 @@ url-pretty: "crivaldi.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+# instructions at https://desiredpersona.com/google-analytics-jekyll/
+google_analytics: UA-124899919-2
 
 # Google Tag Manager ID
 #gtm: ""
