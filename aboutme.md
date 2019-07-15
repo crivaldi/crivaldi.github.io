@@ -6,7 +6,7 @@ subtitle: What I do
 
 ### Background
 
-Hi, I'm Chissa! I'm a PhD candidate in the Hollocher lab in the department of Biological Sciences at the University of Notre Dame. Before this, I did a masters in biology at the University of Texas at Tyler. Before THAT I got a BS in Biology at UT Austin. There's more in my CV if you're interested. I spend a lot of time trying to figure out how to add new analyses to my research and how to teach other people who are intereseted in doing the same with their research. 
+Hi, I'm Chissa! I'm a PhD candidate in the Hollocher lab in the department of Biological Sciences at the University of Notre Dame. Before this, I did a masters in biology at the University of Texas at Tyler. Before THAT I got a BS in Biology at UT Austin. There's more in my CV if you're interested. I spend a lot of time trying to figure out how to add new analyses to my research and how to teach other people who are intereseted in doing the same with their research. My website title comes from the time I spent in the service industry - all of my bachelor's and master's and more before that. For those unfamiliar, 'on the fly' is what you say when you need something fast...like if you forget to put in an order for a customer - which I unfortunately was guilty of quite a lot. Fortunately, the skills I depend on when coding rely little on my memory skills.
 
 
 ### Research
