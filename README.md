@@ -1,3 +1,9 @@
+# Info about site purpose and build
+
+This is a site I created to talk about some various bioinformatics workflows and other things my students have found useful. The intent is to help any and all who have questions about getting started in computing for biological research. It is all free to use. I forked this site from the Beautiful Jekyll repository and have left the original information below to help promote the author. Please direct questions and/or feedback to my email at crivaldi@nd.edu.
+
+---
+
 # Beautiful Jekyll
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/daattali/20)
