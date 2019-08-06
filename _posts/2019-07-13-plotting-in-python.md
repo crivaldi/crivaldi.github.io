@@ -11,7 +11,7 @@ PlotNine is a python package that has a lot of usage and syntax similarities to 
 [Installing the PlotNine Package](https://plotnine.readthedocs.io/en/stable/installation.html)
 
 Note: If you're using Python2, you might run into some trouble with the installation here. This has to do with some underlying dependencies. For users who are using Python 2.7 as part of their everyday workflow, you might consider using conda to create a new environment with Python3 following the instructions [here](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html). 
-If you're not sure what conda is, you can read more about that here: [Conda installation/usage](/_posts/2019-08-06-conda.md)
+If you're not sure what conda is, you can read more about that here: [Conda installation/usage](/2019-08-06-conda.md)
 
 * * *
 
