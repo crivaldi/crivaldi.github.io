@@ -6,19 +6,12 @@ tags: [python, plots]
 
 # Plotting in (mostly) Python*
 
-*Note to class: some of these may be python 3 & most of what we've done so far has been in Python 2\. Copy and paste with caution*
-
 * * *
+PlotNine is a python package that has a lot of usage and syntax similarities to the popular ggplots package in R. Install following the link below. 
+[Installing the PlotNine Package](https://plotnine.readthedocs.io/en/stable/installation.html)
 
-[Installing the PlotNine Package (ggplots for python)](https://plotnine.readthedocs.io/en/stable/installation.html)
-
-##### Class Specific notes/announcements - 11/1/18 - plotting links continued below
-
-You do not need to have plotnine installed and working correctly to complete exercise 8\. There is some example code in the exercise. We'll go over this in office hours later today if it would be helpful. MAC PEOPLE HAVING TROUBLE WITH PLOTNINE INSTALLATION We have another thing to try for plotnine installation. We think that maybe if you start a fresh conda environment some of the dependency issues we've been having will be solved. Dr. Jones is waiting to see if we can get this working and then will figure out what to do from there. In a fresh terminal, type conda activate Your terminal should process this for a minute and then your prompt should change from something like this: `criva$` to something like this: `(base) criva$` From there, you can try to use conda to install plotnine again: `conda install -c conda-forge plotnine` Now open spyder and try out some of the plotnine commands. You can use the dataset mpg.txt from class (if you don't have this dataset, you can [download it here](https://forge.scilab.org/index.php/p/rdataset/source/tree/master/csv/ggplot2/mpg.csv).) `import numpy import pandas as pd from plotnine import *` `mpg=pd.read_csv("mpg.txt",sep="\t",header=0` `a = ggplot(mpg,aes(x="displ",y="cty")) a+geom_point()+coord_cartesian()` Let me know what happens - hopefully this forces a new environment which should fix the dependency nonsense we've been going through. Some people were having issues with getting numpy re-installed on Wednesday - here is some code that should work for you. Let me know if this doesn't work. If we didn't talk about this, ignore it. Code for numpy installation
-
-*   Plotting in Pandas (python code): <span class="comment-copy">`sudo pip install --upgrade --ignore-installed --install-option '--install-data=/usr/local' numpy`</span>
-
-For what it's worth, this dependency issue is not something unique to the class. See comic. (https://xkcd.com/1987/) ![](https://imgs.xkcd.com/comics/python_environment.png)  
+Note: If you're using Python2, you might run into some trouble with the installation here. This has to do with some underlying dependencies. For users who are using Python 2.7 as part of their everyday workflow, you might consider using conda to create a new environment with Python3 following the instructions [here](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html). 
+If you're not sure what conda is, you can read more about that here: [Conda installation/usage](2019-08-06-conda.md)
 
 * * *
 
@@ -26,7 +19,7 @@ For what it's worth, this dependency issue is not something unique to the class.
 
 [https://lmicke.github.io/first-ramen-post.html](https://lmicke.github.io/first-ramen-post.html) [https://lmicke.github.io/second-ramen-post.html#second-ramen-post](https://lmicke.github.io/second-ramen-post.html#second-ramen-post)
 
-*   Bunch of different types of graphs and the code to make them (Python code):
+*   Many different types of graphs and the code to make them (Python code):
 
 [https://python-graph-gallery.com/](https://python-graph-gallery.com/)
 
