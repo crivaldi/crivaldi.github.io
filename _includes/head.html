@@ -128,4 +128,8 @@
   <link rel="stylesheet" href="{{ "/css/staticman.css" | relative_url }}" />
   {% endif %}
 
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
+
 </head>

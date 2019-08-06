@@ -6,12 +6,13 @@ subtitle: What I do
 
 ### Background
 
-I'm a PhD candidate in the department of Biological Sciences at the University of Notre Dame. Before that, I did a masters in biology at the University of Texas at Tyler. Before THAT I got a BS in Biology at UT Austin. 
+Hi, I'm Chissa! I'm a PhD candidate in the Hollocher lab in the department of Biological Sciences at the University of Notre Dame. Before this, I did a masters in biology at the University of Texas at Tyler. Before THAT I got a BS in Biology at UT Austin. There's more in my CV if you're interested. I spend a lot of time trying to figure out how to add new analyses to my research and how to teach other people who are intereseted in doing the same with their research. My website title comes from the time I spent in the service industry - all of my bachelor's and master's and more before that. For those unfamiliar, 'on the fly' is what you say when you need something fast...like if you forget to put in an order for a customer - which I unfortunately was guilty of quite a lot. Fortunately, the skills I depend on when coding rely little on my memory skills.
 
 
 ### Research
 
-My research uses  population  genetics to refine known aspects  of the landscape and anthropogenic effects on the genetics of the macaque populations in Southeast Asia. I attempt to accomplish this in a few ways. First, by using the gene for the protein salivary amylase as a metric by which to study the diets of the macaques in the context of the amount of provisioning to which they are subjected. Second, I use next-generation sequencing to analyze the diversity and function, particularly in carbohydrate digestion, of the microbes present in the oral environment. Third, I use biomarkers and single nucleotide polymorphisms (SNPs) in the macaque genome to evaluate the overall adaptation of the communities and populations available to us in Southeast Asia. Together, these approaches will potentially allow a more complete view of the diet of primates and how environmental elements affect the response that can be reflected by the genome.
+I use gut and oral microbiome (amplicon) data from long-tailed macaques in Southeast Asia to evaluate how the microbial communities here change through geographic and genetic space. I'm not only looking at the prokaryotic microbiome, but also at the eukaryotic organisms present in the form of diet and resident eukaryotes like protozoans. The protozoan genus *Blastocystis* is the subject of a lot of my work right now, as it's in almost all of my samples (which makes it great target for genetic variation analyses) and has an extremely interesting pathophysiology associated with it (in humans). My research has changed a lot since I started it, which is really common for PhD students, or so my advisor tells me ;) 
+In my pre-doctoral research, I studied the spatial distribution of arthropod pathogen vectors (Triatoma bugs and Ixodes ticks) and the gut microbiome of Triatoma bugs in Texas.
 
 
 ### Note for biologists learning bioinfomatics
