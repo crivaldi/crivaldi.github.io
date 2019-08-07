@@ -2,6 +2,8 @@
 layout: post
 title: Intro to python
 subtitle: Quick info about python
+bigimg: /img/Serp.png
+tags: [python, numpy, pandas]
 ---
 
 # Getting started with Python
