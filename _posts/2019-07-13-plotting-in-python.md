@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Plotting in Python
+subtitle: Links to tutorials for plotting with popular python packages
 tags: [python, plots]
 ---
 

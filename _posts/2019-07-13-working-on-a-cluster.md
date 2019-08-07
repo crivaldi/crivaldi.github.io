@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Working on a cluster
+subtitle: General information for computing using HPC/clusters
 ---
 # Working on a computing cluster - DIBSI 2019
 This tutorial is intended to be a general guideline towards researchers who are new to working on remote computers and fairly new to working on the command line. 

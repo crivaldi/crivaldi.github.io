@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intro to python
-subtitle: Quick info about python
+subtitle: Helpful links for data analysis in python 
 bigimg: /img/Serp.png
 tags: [python, numpy, pandas]
 ---
