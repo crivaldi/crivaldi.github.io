@@ -10,7 +10,7 @@ tags: [bioinformatics, algorithms]
 
 Programs like BLAST and HMMER are key tools in bioinformatics, and the algorithms that they use are helpful to understand when you incorporate them into your workflows. These are just the tip of the iceburg, but they're a really good place to start. I compiled some resources that I've found helpful in learning them. 
 
-Image: Atomic Force Microscopy of circuit on DNA nanostructure. [More information:](https://www.caltech.edu/about/news/computer-scientists-create-reprogrammable-molecular-computing-system)
+Image: Atomic Force Microscopy of circuit on DNA nanostructure. [More information](https://www.caltech.edu/about/news/computer-scientists-create-reprogrammable-molecular-computing-system)
 
 ## Algorithms
 
