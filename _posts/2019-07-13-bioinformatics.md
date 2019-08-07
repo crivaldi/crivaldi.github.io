@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bioinformatics
-subtitle: "[Image from Winfree Lab at Caltech](https://www.caltech.edu/about/news/computer-scientists-create-reprogrammable-molecular-computing-system "Visit Press Relase")"
+subtitle: Helpful links and resources related to bioinformatics algorithms
 bigimg: /img/bioinformatics.png
 tags: [bioinformatics, algorithms]
 ---
@@ -9,6 +9,8 @@ tags: [bioinformatics, algorithms]
 # Bioinformatics
 
 Programs like BLAST and HMMER are key tools in bioinformatics, and the algorithms that they use are helpful to understand when you incorporate them into your workflows. These are just the tip of the iceburg, but they're a really good place to start. I compiled some resources that I've found helpful in learning them. 
+
+_[Image: Atomic Force Microscopy of circuit on DNA nanostructure. More information:](https://www.caltech.edu/about/news/computer-scientists-create-reprogrammable-molecular-computing-system) _
 
 ## Algorithms
 
