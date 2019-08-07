@@ -2,7 +2,7 @@
 layout: post
 title: Bioinformatics
 subtitle: Links to explore algorithms commonly used in bioinformatics 
-bigimg:"/img/bioinformatics.png" : "Winfree Lab/Caltech"
+bigimg: /img/bioinformatics.png : "Winfree Lab/Caltech"
 tags: [bioinformatics, algorithms]
 ---
 
