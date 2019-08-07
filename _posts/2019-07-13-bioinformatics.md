@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bioinformatics
-subtitle: [Image from Winfree Lab at Caltech](https://www.caltech.edu/about/news/computer-scientists-create-reprogrammable-molecular-computing-system "Visit Press Relase")
+subtitle: "[Image from Winfree Lab at Caltech](https://www.caltech.edu/about/news/computer-scientists-create-reprogrammable-molecular-computing-system "Visit Press Relase")"
 bigimg: /img/bioinformatics.png
 tags: [bioinformatics, algorithms]
 ---
