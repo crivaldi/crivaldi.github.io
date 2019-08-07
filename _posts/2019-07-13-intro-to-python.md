@@ -7,7 +7,7 @@ tags: [python, numpy, pandas]
 ---
 
 # Getting started with Python for data analysis. 
-### Dataframes are 2-dimensional labeled data structures with columns of potentially different types. You can think of it like a spreadsheet. Numpy and Pandas are two very powerful and commonly used libraries used for datasets in bioinformatics. If you don't have these installed, you can get them as part of the [SciPy bundle](https://www.scipy.org/). You can also use [conda](/2019-08-06-conda) to install them individually. 
+Dataframes are 2-dimensional labeled data structures with columns of potentially different types. You can think of it like a spreadsheet. Numpy and Pandas are two very powerful and commonly used libraries used for datasets in bioinformatics. If you don't have these installed, you can get them as part of the [SciPy bundle](https://www.scipy.org/). You can also use [conda](/2019-08-06-conda) to install them individually. 
 
 ## Numpy
 
