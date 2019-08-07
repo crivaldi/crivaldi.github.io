@@ -2,6 +2,7 @@
 layout: post
 title: Plotting in Python
 subtitle: Links to tutorials for plotting with popular python packages
+bigimg: /img/pyplot.png
 tags: [python, plots]
 ---
 
