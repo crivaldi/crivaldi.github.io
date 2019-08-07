@@ -2,6 +2,7 @@
 layout: post
 title: Bioinformatics
 subtitle: Links to explore algorithms commonly used in bioinformatics 
+bigimg: /img/bioinformatics.png : : "https://bit.ly/2KjXxic"
 tags: [bioinformatics, algorithms]
 ---
 
