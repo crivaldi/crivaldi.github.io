@@ -20,7 +20,7 @@ description: Bioinformatics tutorials and resources for world domination.
 
 # List of links in the navigation bar
 navbar-links:
-  CV: "Rivaldi_site_CV_7_19.pdf"
+  CV: "Rivaldi_CV_1_20.pdf"
   About Me: "aboutme"
   Resources:
     - Software Carpentry: "https://software-carpentry.org/"
